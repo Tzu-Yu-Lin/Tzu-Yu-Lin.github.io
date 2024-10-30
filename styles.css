@@ -9,4 +9,11 @@ body {
   font-size: 23px;
   font-family: 'Helvetica', Arial, sans-serif;
   p{margin-bottom: 1px;}
+  img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px auto;
+            border-radius: 10px;
+        }
 }
