@@ -2,6 +2,7 @@ body {
   margin: 0;
   background-image: url('https://raw.githubusercontent.com/Tzu-Yu-Lin/Tzu-Yu-Lin.github.io/refs/heads/main/images.jpeg');
   background-position: center;
+  background-size: cover;
   background-repeat: no-repeat;
   padding-left: 20px;
   text-align: left;
